@@ -5,7 +5,8 @@
 package pkg0486_pt2xquery2;
 
 /**
- *
+ * Classe que representa un departament
+ * 
  * @author Yamila Cazalla Recio
  */
 public class Departament {
